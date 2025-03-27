@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently doing research in gravitational waves and their electromagnetic counterparts<br>🌱 I'm currently learning data science and AI skills 
+🔭 I'm doing Ph.D. thesis research in gravitational waves and their electromagnetic counterparts<br>🌱 I'm currently learning data science and AI skills 
 
 
 ## 🌐 Socials:
